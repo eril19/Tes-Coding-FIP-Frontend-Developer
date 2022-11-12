@@ -1,6 +1,6 @@
 Nama: Muhammad Eril Fario
 
-Dalam repository ini, saya telah mengupload beberapa folder file Java dengan nama yang berurutan sesuai nomor soal,
+Dalam repository ini, saya telah mengupload beberapa folder file Java dengan nama yang berurutan sesuai nomor soal serta file .txt yang berisi query searchnya,
 Dalam pengerjaan tugas ini, saya menggunakan bahasa Java dengan text editor "Eclipse IDE for Java Developers" sehingga diperlukannya JRE atau SDK dari Java pada komputer
 
 Untuk menjalankan aplikasi yang telah dibuat, saya menyarankan untuk menggunakan aplikasi seperti IntelliJ atau Eclipse IDE, 
