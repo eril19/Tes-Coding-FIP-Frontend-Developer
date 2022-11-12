@@ -1,0 +1,31 @@
+//Muhammad Eril Fario
+
+Tes Logika FIP
+
+Bahasa yang digunakan: Java
+Text Editor/App yang digunakan: Eclipse IDE
+
+Query Search yang diketik ketika mengerjakan soal
+
+no.1
+- integer to string java
+- get data in string vector java
+
+no.2
+- count words using contains java
+- split method in java
+- count specific word in string java
+- remove dot in string java
+- count 2 words in one sentence in java
+
+no.3
+- java check first character of string is number
+
+
+no.4
+- sort inputted array in java
+
+no.5
+- how to make a diagonal line in java using for loop
+
+
